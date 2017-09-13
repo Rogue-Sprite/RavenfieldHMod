@@ -9,6 +9,8 @@ Features :
 - Right clicking with wrench Flips Vehicle right way up.
 - Player Rockets do more damage.
 
+*Note You will need to repair the helicopter a little before getting in (For the extra health), And reload the rockets to get Extra Capacity*
+
 How to Use:
 ----
 replace the `Assembly-CSharp.dll` in your `Ravenfield\Ravenfield_Data\Managed` *Folder* with [This One](https://github.com/Rogue-Sprite/RavenfieldHMod/raw/master/Better-Heli-Mod%20Stable/Assembly-CSharp.dll).
