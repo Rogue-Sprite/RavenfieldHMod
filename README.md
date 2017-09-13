@@ -1,6 +1,6 @@
 Ravenfield Beta 5 (Free) Better-Heli-Mod.
 ===
-You can get this version of ravenfield [here]().
+You can get this version of ravenfield [here](https://steelraven7.itch.io/ravenfield).
 
 Features :
 ---
@@ -11,7 +11,7 @@ Features :
 
 How to Use:
 ----
-replace the `Assembly-CSharp.dll` in your `Ravenfield\Ravenfield_Data\Managed` *Folder* with [This One]().
+replace the `Assembly-CSharp.dll` in your `Ravenfield\Ravenfield_Data\Managed` *Folder* with [This One](https://github.com/Rogue-Sprite/RavenfieldHMod/raw/master/Better-Heli-Mod%20Stable/Assembly-CSharp.dll).
 **You should always make a copy** of the `Assemble-Csharp.dll` file that is already there before you replace it.
 Then run Ravenfield.
 
